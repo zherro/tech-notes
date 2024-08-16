@@ -2,16 +2,13 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Architecture
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Types of Software Architecture](architecture/types-of-software-architecture.md)
+* [Hexagonal Architecture: The Secret to Scalable and Maintainable Code for Modern Software](architecture/hexagonal-architecture-the-secret-to-scalable-and-maintainable-code-for-modern-software.md)
+* [Hexagonal Architecture and Clean Architecture (with examples)](architecture/hexagonal-architecture-and-clean-architecture-with-examples.md)
 
-## Basics
+## Patterns and Practices
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Clean Code: A Comprehensive Guide to Building Next-Generation Applications](patterns-and-practices/clean-code-a-comprehensive-guide-to-building-next-generation-applications.md)
+* [Domain-Driven Design (DDD): A Guide to Building Scalable, High-Performance Systems](patterns-and-practices/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems.md)
