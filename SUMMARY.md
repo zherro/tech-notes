@@ -1,6 +1,23 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Copy of Welcome](readme-1.md)
+
+## Java 8 Core
+
+* [Lambda Expressions](java-8-core/lambda-expressions.md)
+* [Page](java-8-core/page.md)
+
+## Design Patterns
+
+* [Creational Patters](design-patterns/creational-patters/README.md)
+  * [Builder](design-patterns/creational-patters/builder/README.md)
+    * [Questions](design-patterns/creational-patters/builder/questions.md)
+  * [Singleton](design-patterns/creational-patters/singleton/README.md)
+    * [Singleton Pattern vs. Spring Singleton Bean](design-patterns/creational-patters/singleton/singleton-pattern-vs.-spring-singleton-bean.md)
+    * [Questions](design-patterns/creational-patters/singleton/questions.md)
+  * [Factory Method](design-patterns/creational-patters/factory-method/README.md)
+    * [Questions](design-patterns/creational-patters/factory-method/questions.md)
 
 ## Architecture
 
