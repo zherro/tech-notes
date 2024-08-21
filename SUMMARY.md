@@ -12,3 +12,11 @@
 
 * [Clean Code: A Comprehensive Guide to Building Next-Generation Applications](patterns-and-practices/clean-code-a-comprehensive-guide-to-building-next-generation-applications.md)
 * [Domain-Driven Design (DDD): A Guide to Building Scalable, High-Performance Systems](patterns-and-practices/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems.md)
+
+## TO EXPLORE
+
+* [Apache Camel](to-explore/apache-camel.md)
+* [CQRS (Command Query Responsibility Segregation)](to-explore/cqrs-command-query-responsibility-segregation.md)
+* [Event-sourcing (ES)](to-explore/event-sourcing-es.md)
+* [Microservices Designs Paterns](to-explore/microservices-designs-paterns.md)
+* [SOLID](to-explore/solid.md)
