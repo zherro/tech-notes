@@ -40,7 +40,7 @@ Both Hexagonal and Clean Architecture share a focus on decoupling the core busin
 
 ### Hexagonal Architecture vs Clean Architecture <a href="#id-9853" id="id-9853"></a>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Hexagonal Architecture vs Clean Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Hexagonal Architecture vs Clean Architecture</p></figcaption></figure>
 
 The “Clean Architecture” also places business logic at the center, similar to the Hexagonal Architecture. Interface adapters surround this core, connecting it with the user interface, database, and other external components. The core is only aware of the interfaces of these adapters and not their concrete implementations.
 
